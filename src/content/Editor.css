@@ -1,0 +1,38 @@
+.editor-submit {
+    height: 30px;
+    width: 75px;
+    margin-right: 16px;
+    margin-top: 9px;
+    float: right;
+    border-radius: 5px;
+    border: 0;
+    background-color: #181c20;
+    color: #e3eff1;
+    cursor: pointer;
+}
+
+.editor-menu {
+    height: 50px;
+    background-color: #2e353d;
+}
+
+.editor-select {
+    width: 20%;
+    height: 30px;
+    margin-left: 18px;
+    margin-top: 9px;
+    background-color:#181c20;
+    color: #e3eff1;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+}
+
+.editor-select-option {
+    background-color: #2e353d;
+    color: lightcyan;
+}
+
+.ql-editor {
+    font-size: 14px;
+}
