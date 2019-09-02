@@ -30,7 +30,7 @@ export class Menu extends Component {
                 <div id="left">
                     <div className="nav-side-menu">
                         <div className="brand">
-                            <b><span i18n_key="longduGlobalMgr">Learn React</span></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a id="a_i18n_cn" className='menu-link'><span className='menu-link-span'>中</span></a>
+                            <b><span i18n_key="longduGlobalMgr">Michael's Tech Blog</span></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a id="a_i18n_cn" className='menu-link'><span className='menu-link-span'>中</span></a>
                             <span className='menu-link-span'>|</span>
                             <a id="a_i18n_en" className='menu-link'><span className='menu-link-span'>EN</span></a>
                         </div>
